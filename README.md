@@ -1,6 +1,6 @@
 # Travel Blog Project
 
-This is a travel blog project developed using Laravel, a popular PHP framework. The project allows users to create accounts, publish blog posts with media content, and incorporates user authentication and authorization for secure access to personal profiles and blog management. The blog posts submitted by users will be verified by an admin, who can either approve or reject them. Only the approved posts will be displayed on the homepage.
+This is a travel blog project developed using Laravel, PHP, and MySQL for the backend, and HTML, CSS, and JavaScript for the frontend.  The project allows users to create accounts, publish blog posts with media content, and incorporates user authentication and authorization for secure access to personal profiles and blog management. The blog posts submitted by users will be verified by an admin, who can either approve or reject them. Only the approved posts will be displayed on the homepage.
 
 ## Features
 
